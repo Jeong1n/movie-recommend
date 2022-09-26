@@ -1,7 +1,8 @@
 ![image](https://user-images.githubusercontent.com/102134953/192265305-69daf939-093a-49df-a5dd-b1c071aea450.png)
 
 # movie-recommend
-##프로젝트 주제
+
+## 프로젝트 주제
 머신러닝을 활용한 영화 추천 사이트
 
 
